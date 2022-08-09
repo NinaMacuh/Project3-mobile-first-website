@@ -79,7 +79,12 @@ padding: 0 10px;
 h3, p {
   text-align: center;  
   padding-bottom:20px;
+
 }
+.title {
+  background-color: white;
+  padding:20px;
+  }
 
 .container {
   padding: 10px;
